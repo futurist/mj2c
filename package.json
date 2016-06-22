@@ -1,0 +1,11 @@
+{
+  "name": "mj2c",
+  "version": "1.0.0",
+  "description": "j2c wrapper for mithril",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
