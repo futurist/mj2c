@@ -2,7 +2,7 @@
   "name": "mj2c",
   "version": "1.0.0",
   "description": "j2c wrapper for mithril",
-  "main": "lib/index.js",
+  "main": "lib/mj2c.js",
   "scripts": {
     "test": "mocha"
   },
